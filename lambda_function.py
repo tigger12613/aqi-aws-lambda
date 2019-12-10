@@ -29,8 +29,8 @@ data_index=get_data_index(air_data)
 data_time = datetime.datetime.now()
 #====================
 
-YOUR_CHANNEL_ACCESS_TOKEN='WAQ1YQZotLBSjgGGWxpbTAoeAVCNZZcX/hjo+2MRGXhgD+FD9cW2+Y9aZD2GhrBsoKWb67D23qCi7kxdYnKvfZJmlvzL+gl/V3/wVJyD7VVJVuzBn+5S2nKBjDSPmMMu+oF7adMmJjK8RLBb4nCPOgdB04t89/1O/w1cDnyilFU='
-YOUR_CHANNEL_SECRET='2fcdc3d7d07d5d4b132e9a9972c163e8'
+YOUR_CHANNEL_ACCESS_TOKEN='1bwLcRBfHcQVSl40LgPAinrH3nOi7Qwncz5a9QLUT7Rr/Ton5JCJT0veLHcQlbLnHJV4V8sJ48eFFs2Zv8EvHD78GjHG/RNvILX0M3slCMqFumbw8gbInQ0AV/TylvHV0VTxQasRIpUPBTBiB4nBKQdB04t89/1O/w1cDnyilFU='
+YOUR_CHANNEL_SECRET='7140ea792d54a37b86aebdc4fc6bf48b'
 # Channel Access Token
 line_bot_api = LineBotApi(YOUR_CHANNEL_ACCESS_TOKEN)
 # Channel Secret
